@@ -31,3 +31,7 @@ docker build . -t kavindukalinga/k8s-web-to-nginx
 ```bash
 docker push kavindukalinga/k8s-web-to-nginx
 ```
+Before push the image to dockerhub, you might want to log into it using your credentials.
+```bash
+docker login
+```
