@@ -18,6 +18,7 @@ This repo contains simple web app to show the host name created using nodeJs and
 
 
 
+### Stage 01:
 
 ```bash
 minikube start
@@ -43,4 +44,5 @@ minikube service k8s-web-hello
 ```bash
 k delete -f deployment.yaml -f service.yaml 
 ```
+### Stage 02: Connecting 2 pods
 
