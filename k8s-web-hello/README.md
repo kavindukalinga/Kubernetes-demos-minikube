@@ -7,8 +7,8 @@ sudo apt install npm
 ```
 
 
-`npm init -y
+` npm init -y
 
-`npm install express
+` npm install express
 
-`npm start
+` npm start
